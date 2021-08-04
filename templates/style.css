@@ -1,0 +1,27 @@
+h1{
+    color: #c2c500;
+    text-align: center;
+}
+
+.bienvenue {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+	margin-bottom: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.default{
+    width: 20%;
+    max-width: 10%;
+}
